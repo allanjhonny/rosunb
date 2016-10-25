@@ -1,0 +1,8 @@
+prefix=/home/aluno/catkin_ws/devel
+
+Name: p3at_tutorial
+Description: Description of p3at_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aluno/catkin_ws/devel/lib 
+Requires: 
